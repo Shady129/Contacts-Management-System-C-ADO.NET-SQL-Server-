@@ -36,5 +36,5 @@ It demonstrates **clean architecture for scalable CRUD applications**.
 
 ---
 
-## 🗂️ Project Structure
+
 
